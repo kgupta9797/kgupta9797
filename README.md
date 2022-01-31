@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kishan Gupta
 
-- 👀 I’m interested in Learning By Doing. also intersted in Tech Product
+- 👀 I’m interested in Learning By Doing. also intersted in Reading, Writing, Tech Enthusiast
 - 🌱 I’m currently learning Microservices Architecture with Spring Cloud
 - 💞️ I’m looking to collaborate on System-Design, Backend Development, API development
 - 📫 How to reach me kgupta9797@gmail.com
